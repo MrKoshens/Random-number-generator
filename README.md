@@ -11,8 +11,8 @@ Matplotlib: Matplotlib is a comprehensive library for creating static, animated,
 
 ## Screenshots
 
-![Screenshot 1](main/Random-number-generator/screenshots/2022-11-14_10-05.jpg?raw=true "Optional Title")
-![Screenshot 2](main/Random-number-generator/screenshots/2022-11-14_10-07.jpg?raw=true "Optional Title")
+![Screenshot 1](Random-number-generator/screenshots/2022-11-14_10-05.jpg?raw=true "Optional Title")
+![Screenshot 2](Random-number-generator/screenshots/2022-11-14_10-07.jpg?raw=true "Optional Title")
 
 ## Deployment
 
