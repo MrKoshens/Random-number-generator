@@ -6,7 +6,7 @@ This is a mathematical model of random number generator written in python. The g
 
 ## Libraries 
 
-Matplotlib: Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. Thepyplot module is used here to plot generated points in the graph.
+Matplotlib: Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python. The pyplot module is used here to plot generated points in the graph.
 
 
 ## Screenshots
