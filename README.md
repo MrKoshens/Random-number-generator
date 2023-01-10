@@ -22,21 +22,21 @@ Arch
 ```bash
   pacman -S python-pip
   pip install matplotlib
-  git clone https://github.com/Madhav-Verma/Random-number-generator
+  git clone https://github.com/MrKoshens/Random-number-generator
   python3 rng.py
 ```
 Ubuntu or Debian-based distros
 ```bash
   apt-get install python-pip
   pip install matplotlib
-  git clone https://github.com/Madhav-Verma/Random-number-generator
+  git clone https://github.com/MrKoshens/Random-number-generator
   python3 rng.py
 ```
 MacOs
 ```bash
   brew install python-pip
   pip install matplotlib
-  git clone https://github.com/Madhav-Verma/Random-number-generator
+  git clone https://github.com/MrKoshens/Random-number-generator
   python3 rng.py
 ```
 ## Documentation
